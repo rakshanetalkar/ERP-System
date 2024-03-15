@@ -51,39 +51,40 @@ http://localhost:5173/
 
 1.  Dashboard Screen.
 
-    ![Dashboard_Page](https://github.com/rakshanetalkar/Demo/assets/163313832/f6094494-0571-4f85-a65f-0e9ab5b6cf03)
+    ![Dashboard_Page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/7acb3be0-9ab1-4512-8b03-30e547014302)
 
 2.  Click on Manage Product to add, update, delete the product.
 
-    ![Product_Page](https://github.com/rakshanetalkar/Demo/assets/163313832/b6ea290d-49d1-4e49-8aed-33d9acfa4780)
+    ![Product_Page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/199cdbca-94bc-4f39-806b-9808b442092c)
 
 3.  To add product click on Add Product button and fill up the form and save.
 
-    ![AddProduct_Page](https://github.com/rakshanetalkar/Demo/assets/163313832/6b5d27ea-b737-4af1-abdb-f452337ed90f)
+    ![AddProduct_Page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/84c9744d-1d6c-40d3-9bea-af17e79d7741)
 
 4.  To edit product click on Edit button and change the input details and save.
 
-    ![Edit_Page](https://github.com/rakshanetalkar/Demo/assets/163313832/c6f98fab-5192-4531-8b2b-627ab50d764c)
+    ![Edit_Page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/dedf5872-181d-43d3-ab76-6b79537092f7)
 
 5.  To delete product just click on delete button the product will deleted and to go back click on dashboard 
     button.
 
-    ![ProductDelete_Page](https://github.com/rakshanetalkar/Demo/assets/163313832/a3287e75-dff3-4dfe-aec6-25f1593470f8)
+   ![ProductDelete_Page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/f2541f17-9c2b-43e8-84a8-b5dffb9f92e3)
 
 6.  Click on Manage Order to view, Check Status, delete the product.
 
-    ![Order_Page](https://github.com/rakshanetalkar/Demo/assets/163313832/1e85263b-9f09-446b-b87b-ef3e9ce9cb2a)
+   ![Order_Page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/9cce1239-260a-4f75-9a4a-6ff26b144baa)
 
 7.  To View order click on view button the details of order will displayed.
 
-    ![View_page](https://github.com/rakshanetalkar/Demo/assets/163313832/486f2c17-9a92-4e00-81fc-bda92d0d47fc)
+    ![View_page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/ffcd3c42-6c2f-49d1-a68c-3830d5df8d28)
 
 8.  To change the status just click on processing button it will change to delivered.
 
-    ![Status_Page](https://github.com/rakshanetalkar/Demo/assets/163313832/701ef95a-e045-41e0-be47-4847d8af2b0a)
+   ![Status_Page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/236afc4e-fa7b-48b1-adec-62f7ae70c3dd)
 
 9.  To delete order just click on delete button the order will deleted and to go back click on dashboard 
     button
 
-    ![OrderDelete_page](https://github.com/rakshanetalkar/Demo/assets/163313832/2cfa848a-ed0f-40c8-bd03-6229481aedbf)
+    ![OrderDelete_page](https://github.com/rakshanetalkar/ERP-System/assets/163313832/cf2932d8-e11b-416a-8759-a41062e30bbe)
+
 
